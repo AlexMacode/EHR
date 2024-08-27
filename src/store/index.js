@@ -13,6 +13,7 @@ const store = new Vuex.Store({
     settings,
     user
   },
+  // vuex中的计算属性
   getters
 })
 
